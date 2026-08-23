@@ -1,4 +1,4 @@
-# Genshin auto skip macro
+# Genshin auto skip dialogue macro
 bro, i spent 3 hours of my life on this, and I didn’t fix many bugs, so yeah.
 
 > **⚠️ DISCLAIMER**: Using third-party software with Genshin Impact is against the game's Terms of Service. Use this tool at your own risk. The developers of this script are not responsible for any consequences, including potential account bans.
